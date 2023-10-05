@@ -13,7 +13,7 @@ Web application imitating eBay
 ### All users: 
 + All active listings view,
 + Details and comments regarding one chosen listing,
-### Singed in users only: 
+### Signed in users only: 
 + Creating new listings
 + Commenting on a given listing
 + Bidding on a given item
