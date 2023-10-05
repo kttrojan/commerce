@@ -1,0 +1,9 @@
+body {
+    padding: 10px;
+}
+
+.corner {
+    position:relative;
+     left: 2px;
+      bottom: 2px;
+}
